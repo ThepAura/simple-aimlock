@@ -165,7 +165,7 @@ wait(0.2)
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/Dynissimo/main/Scripts/AkaliNotif.lua"))();
 local Notify = AkaliNotif.Notify;
 Notify({
-Description = "The pAura";
+Description = "Made By The pAura join my dc for updates";
 Title = "https://discord.gg/5X4kcHFjqM KEY = E";
 Duration = 15;
 });
